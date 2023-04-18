@@ -1,6 +1,5 @@
 package HomeWork01;
-import java.util.random.RandomGenerator;
-import java.util.Random;
+
 
 
 
@@ -22,8 +21,7 @@ public class Task3 {
                 System.out.print(arr[i][j] + "\t");
             }
         }
-        /* System.out.println("max: " + max);
-        System.out.println("min: " + min); */
+
     }
     
 }
