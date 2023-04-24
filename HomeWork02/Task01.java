@@ -22,6 +22,7 @@ public class Task01 {
 
         for (int i = 0; i < set.length; i++) {
             char[] index = set[i].toCharArray();
+            sb.append("'");
             for (int j = 0; j < index.length; j++ ){
             // for (char j : index){    
                 if (index[j] == value[0]){
